@@ -1,21 +1,25 @@
 # Explorando dados da boia - SiMCosta SC (Lagoa da Conceição)
 
-Para o curso será necessário instalar o `pixi`
+Para o curso será necessário instalar o `pixi`. siga as instruções em:
 
   1. https://pixi.prefix.dev/latest/installation/
 
-clonar ou copiar o repositório TODO
+Se for um usuário de `git`, faça um `fork` e clone o repositório:
 
-  2. TODO-URL
+  2. https://github.com/ocefpaf/OHW_UFSC_2026
 
-e digitar, em um terminal, o comando:
+Caso não seja familiar com `git`, navegue até o site acima e faça download manualmente clicando em `<> Code` e depois `Download ZIP`.
+
+![](https://github.com/user-attachments/assets/373e5cdd-b69f-49cd-9a93-1879a7e8dc46)
+
+Com o arquivo descompactado ou o seu clone local, navegue até a pasta pelo terminal e digite o comando:
 
   3. `pixi run notebook`
 
 Caso o seu browser abra com um notebook em branco, sucesso!
-Se isso não acontecer, contacte a organização por TODO-ISSUES o mais rápido possível para não perdermos tempo durante o curso.
+Se isso não acontecer, contacte a organização abrindo um chamado em `https://github.com/ocefpaf/OHW_UFSC_2026/issues` o mais rápido possível para não perdermos tempo durante o curso!
 
-Syllabus
+Conteúdo do curso:
 
 1. Usando notebooks
 1. Mapa da região
