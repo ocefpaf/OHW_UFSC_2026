@@ -3,3 +3,6 @@
 !.pixi/config.toml
 pixi.lock
 .ipynb_checkpoints/
+
+notebooks/01-boia-lagoa-conceição-gabarito.ipynb
+notebooks/02-qa-qc-gabarito.ipynb
